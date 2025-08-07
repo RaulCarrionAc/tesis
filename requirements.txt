@@ -25,6 +25,7 @@ cachetools
 certifi
 cffi
 charset-normalizer
+pysqlite3-binary==0.5.11
 chromadb==1.0.15
 click==8.1.7
 colorama
@@ -161,7 +162,6 @@ PyQt6==6.7.1
 PyQt6_sip
 pyreadline3==3.5.4
 PySocks
-pysqlite3-binary
 python-dateutil
 python-dotenv==1.1.1
 pytz
