@@ -25,7 +25,7 @@ cachetools
 certifi
 cffi
 charset-normalizer
-pysqlite3-binary
+pysqlite3
 chromadb==1.0.15
 click==8.1.7
 colorama
