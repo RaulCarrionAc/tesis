@@ -146,7 +146,6 @@ posthog==5.4.0
 prompt_toolkit
 propcache==0.3.2
 proto-plus==1.26.1
-protobuf==3.20.3
 psutil
 pure_eval
 pyarrow
@@ -172,7 +171,6 @@ python-dateutil
 python-dotenv==1.1.1
 pytz
 pytz-deprecation-shim==0.1.0.post0
-pywin32==304
 PyYAML
 pyzmq
 referencing
