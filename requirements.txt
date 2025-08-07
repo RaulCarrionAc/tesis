@@ -161,6 +161,7 @@ PyQt6==6.7.1
 PyQt6_sip
 pyreadline3==3.5.4
 PySocks
+pysqlite3-binary
 python-dateutil
 python-dotenv==1.1.1
 pytz
